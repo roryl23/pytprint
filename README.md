@@ -1,5 +1,5 @@
 # pytprint
-Thread-safe print module for Python
+Thread-safe print module for Python. It's exactly as simple as it sounds.
 
 ## Install
 
