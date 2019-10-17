@@ -1,2 +1,6 @@
 # pytprint
-Threaded print module for Python
+Thread-safe print module for Python
+
+## Usage
+
+`from tprint import print`
