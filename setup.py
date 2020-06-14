@@ -1,4 +1,4 @@
-# Copyright 2019 Rory Linehan
+# Copyright 2020 Rory Linehan
 # this code is distributed under the terms of the GNU General Public License
 
 from distutils.core import setup
