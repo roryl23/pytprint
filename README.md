@@ -7,4 +7,4 @@ Thread-safe print module for Python. It's exactly as simple as it sounds.
 
 ## Usage
 
-`from pytprint.tprint import print`
+`from pytprint import print`
