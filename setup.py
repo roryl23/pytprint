@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='pytprint',
-    version='0.2.0',
+    version='0.2.1',
     packages=['pytprint',],
     license='GNU GPL',
     long_description=open('README.md').read(),
