@@ -8,5 +8,7 @@ Thread-safe print module for Python. It's exactly as simple as it sounds.
 
 ## Usage
 
-`from pytprint import print`
-`print('thread safe')`
+```
+from pytprint import print
+print('thread safe')
+```
